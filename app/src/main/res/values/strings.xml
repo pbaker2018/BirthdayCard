@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Birthday Card</string>
+    <string name="submit">Submit</string>
+    <string name="name_hint">type whose birthday it is here</string>
+    <string name="age_hint">type their age here</string>
+</resources>
