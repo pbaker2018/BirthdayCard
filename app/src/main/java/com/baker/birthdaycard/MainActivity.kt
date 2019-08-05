@@ -22,7 +22,11 @@ class MainActivity : AppCompatActivity() {
             editNameTxt.text.clear()
             editAgeTxt.text.clear()
         } else {
-            ageTodayTxt.text = "incomplete fields"
+            ageTodayTxt.text = "Complete both fields"
+            happyBDayTxt.text = ""
+            nameTxt.text = ""
+            editNameTxt.text.clear()
+            editAgeTxt.text.clear()
         }
     }
 }
