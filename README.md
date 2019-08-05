@@ -1,4 +1,4 @@
-## BirthdayCard
+# BirthdayCard
 
 A basic one-page android app, using Android Studio and Kotlin.
 
@@ -7,7 +7,7 @@ A birthday greeting will then appear, with the inputted name and age included in
 
 If the user presses 'submit' without both fields completed, an error message will appear instead.
 
-# Screen Recording of App
+## Screen Recording of App
 
 See the link below to view my app in action, on Youtube
 
