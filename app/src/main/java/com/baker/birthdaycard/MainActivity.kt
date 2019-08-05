@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
             editNameTxt.text.clear()
             editAgeTxt.text.clear()
         } else {
-            ageTodayTxt.text = "Please enter a name AND age first"
+            ageTodayTxt.text = "incomplete fields"
         }
     }
 }
